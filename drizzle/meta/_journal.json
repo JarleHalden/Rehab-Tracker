@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "0000_pgcrypto",
+      "when": 1762428136680,
+      "tag": "manual",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1762428295562,
+      "tag": "0001_living_hellcat",
+      "breakpoints": true
+    }
+  ]
+}
